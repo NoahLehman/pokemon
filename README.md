@@ -21,7 +21,7 @@ This is a simple JavaScript-based web application that allows users to search fo
 
 1. Clone the repository or download the ZIP file:
    ```bash
-   git clone https://github.com/your-username/pokemon-search.git
+   git clone https://github.com/NoahLehman/pokemon.git
 ````
 
 2. Open `index.html` in your web browser.
